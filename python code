@@ -16,3 +16,7 @@ def find_primes_in_list(numbers):
 numbers = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 prime_numbers = find_primes_in_list(numbers)
 print("Prime numbers in the list are:", prime_numbers)
+
+
+# output
+# Prime numbers in the list are: [2, 3, 5, 7, 11, 13, 17, 19]
