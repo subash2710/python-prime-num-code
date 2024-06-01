@@ -22,3 +22,5 @@ print("Prime numbers in the list are:", prime_numbers)
 # Prime numbers in the list are: [2, 3, 5, 7, 11, 13, 17, 19]
 
 # prime number succesfully done
+
+# finished
